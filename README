@@ -1,0 +1,12 @@
+//npm install prompt-sync
+// para instalar isso
+//node sistemaDeGames.js
+
+
+//RESUMO DO PROJETO:
+//O projeto consiste em um sistema de gerenciamento de jogadores de um time de e-sports. 
+//O usuário pode adicionar jogadores, deletar jogadores, calcular a média de pontuação do time e atualizar a pontuação dos jogadores. 
+//O sistema utiliza um array para armazenar os jogadores e suas informações, e funções para realizar as operações desejadas.
+//O sistema também utiliza a biblioteca prompt-sync para permitir a entrada de dados pelo usuário no terminal.
+//O sistema é executado em um loop, permitindo que o usuário escolha a operação desejada até que ele decida sair do programa.
+//O sistema também utiliza a função toUpperCase() para padronizar os nomes dos jogadores, evitando problemas com letras maiúsculas e minúsculas.
